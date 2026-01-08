@@ -2,3 +2,4 @@
 
 Notes and usage details for dynamic-environment.
 - clarify the setup steps
+- clarify the setup steps
